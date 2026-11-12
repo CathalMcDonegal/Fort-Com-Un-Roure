@@ -3,7 +3,7 @@
 Aplicació progressiva (PWA) en català per entrenar a casa amb criteri, progressió i material domèstic. Pensada per a adults que volen millorar força, massa muscular, resistència i mobilitat sense dependre d'un gimnàs.
 
 ## Funcions
-- Biblioteca de **356 exercicis** amb fotografies reals, instruccions pas a pas, grups musculars i material.
+- Biblioteca de **353 exercicis** amb fotografies reals, instruccions pas a pas, grups musculars i material.
 - Plans estructurats: cos complet, tren superior, cames i glutis, condició física, sessions exprés i mobilitat.
 - Sessió guiada amb exercici actual, sèries, descans i pas al següent exercici.
 - Cerca i filtres per grup muscular i material.
