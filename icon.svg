@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" rx="22" fill="#fbf7ed"/><path fill="#174b35" d="M48 92V55C27 53 10 39 14 24c2-9 12-11 19-5 0-14 16-20 23-7 10-10 25-2 23 10 15-3 22 12 12 23-7 8-18 11-30 10v37z"/><path stroke="#fbf7ed" stroke-width="3" fill="none" d="M50 88V29M50 49 31 31m19 8 20-20M50 61 29 49m21 0 24-10"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><linearGradient id="bg" x2="0" y2="1"><stop stop-color="#153f27"/><stop offset="1" stop-color="#031b0d"/></linearGradient><linearGradient id="trunk" x2="1"><stop stop-color="#70401d"/><stop offset=".5" stop-color="#b97832"/><stop offset="1" stop-color="#4d2b16"/></linearGradient></defs>
+<rect width="512" height="512" rx="92" fill="url(#bg)"/><circle cx="256" cy="214" r="188" fill="#fff5d9"/>
+<path d="M238 356c5-67 1-116-8-158l-50-45 18-14 42 35-10-62 22-3 12 66 43-40 16 14-55 52c-3 45 4 91 18 155z" fill="url(#trunk)"/>
+<g fill="#2f702d"><circle cx="153" cy="145" r="58"/><circle cx="202" cy="100" r="62"/><circle cx="268" cy="86" r="68"/><circle cx="332" cy="111" r="61"/><circle cx="378" cy="160" r="53"/><circle cx="115" cy="194" r="42"/><circle cx="394" cy="211" r="42"/></g>
+<g fill="#75a832"><circle cx="174" cy="129" r="23"/><circle cx="235" cy="65" r="22"/><circle cx="306" cy="91" r="24"/><circle cx="357" cy="146" r="21"/><circle cx="126" cy="176" r="18"/></g>
+<path d="M83 348h346" stroke="#7bbd2f" stroke-width="9" stroke-linecap="round"/>
+<g fill="#101b18"><circle cx="173" cy="267" r="17"/><path d="M163 286q-20 21-11 46l23 17 18-8-10-28 24 25 26-4-29-44q-17-18-41-4z"/><path d="M163 337l-26 41 15 8 36-34 18 32 17-6-16-51z"/></g>
+<g fill="#101b18"><path d="M322 268q-15-22-2-34 12-11 25 2l9 22z"/><path d="M324 275q-10 15-4 36l-22 18 10 12 34-17 28 10 9-13-28-24-3-20z"/><path d="M298 324l-27 27 9 11 36-19 31 16 9-12-31-28z"/></g>
+<path d="M70 393h372v79H70z" fill="#062411"/><text x="256" y="447" fill="#fff2d1" font-family="Arial,sans-serif" font-size="48" font-weight="900" text-anchor="middle" letter-spacing="2">ROURE</text>
+<text x="256" y="472" fill="#a8d83e" font-family="Arial,sans-serif" font-size="14" font-weight="800" text-anchor="middle" letter-spacing="5">FITNESS</text>
+</svg>
